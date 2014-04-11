@@ -59,7 +59,8 @@
     <file path="/Power.java" changelist="288fc04a-2dfb-45fc-9493-2d023de66a1f" time="1396646301280" ignored="false" />
     <file path="/JumpGame.java" changelist="288fc04a-2dfb-45fc-9493-2d023de66a1f" time="1396919843625" ignored="false" />
     <file path="/BinaryTreeInorderTraversal.java" changelist="288fc04a-2dfb-45fc-9493-2d023de66a1f" time="1397053040430" ignored="false" />
-    <file path="/BinaryTreePreorderTraversal.java" changelist="288fc04a-2dfb-45fc-9493-2d023de66a1f" time="1397097660072" ignored="false" />
+    <file path="/BinaryTreePreorderTraversal.java" changelist="288fc04a-2dfb-45fc-9493-2d023de66a1f" time="1397176036750" ignored="false" />
+    <file path="/BinaryTreePostorderTraversal.java" changelist="288fc04a-2dfb-45fc-9493-2d023de66a1f" time="1397176121244" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -727,6 +728,36 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/BinaryTreePostorderTraversal.java" line="30" class="BinaryTreePostorderTraversal" package="">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/BinaryTreePostorderTraversal.java" line="54" class="BinaryTreePostorderTraversal" package="">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
     </line_breakpoints>
     <breakpoint_rules />
     <ui_properties />
@@ -737,10 +768,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="BinaryTreePreorderTraversal.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="BinaryTreePreorderTraversal.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/BinaryTreePreorderTraversal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="48" column="27" selection-start="1458" selection-end="1458" vertical-scroll-proportion="0.13192612">
+            <state line="105" column="16" selection-start="3377" selection-end="3377" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1108#1117#0" expanded="true" />
@@ -750,11 +781,16 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BinaryTreeInorderTraversal.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BinaryTreeInorderTraversal.java">
+      <file leaf-file-name="BinaryTreePostorderTraversal.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/BinaryTreePostorderTraversal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="39" column="65" selection-start="1168" selection-end="1168" vertical-scroll-proportion="0.0">
-              <folding />
+            <state line="67" column="26" selection-start="2035" selection-end="2035" vertical-scroll-proportion="0.5225464">
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1117#1126#0" expanded="true" />
+                <element signature="e#1168#1178#0" expanded="true" />
+                <element signature="e#1220#1230#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -769,7 +805,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/removeDuplicates2.java" />
         <option value="$PROJECT_DIR$/src/Solution2.java" />
         <option value="$PROJECT_DIR$/src/Solution3.java" />
         <option value="$PROJECT_DIR$/src/GenerateParentheses.java" />
@@ -783,8 +818,9 @@
         <option value="$PROJECT_DIR$/src/Power.java" />
         <option value="$PROJECT_DIR$/src/JumpGame.java" />
         <option value="$PROJECT_DIR$/src/BinaryTreeInorderTraversal.java" />
-        <option value="$PROJECT_DIR$/src/BinaryTreePreorderTraversal.java" />
         <option value="$PROJECT_DIR$/src/BinaryTreePosterorderTraversal.java" />
+        <option value="$PROJECT_DIR$/src/BinaryTreePreorderTraversal.java" />
+        <option value="$PROJECT_DIR$/src/BinaryTreePostorderTraversal.java" />
       </list>
     </option>
   </component>
@@ -885,29 +921,7 @@
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="dynamic.classpath" value="false" />
   </component>
-  <component name="RunManager" selected="Application.BinaryTreePreorderTraversal">
-    <configuration default="false" name="Anagrams" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Anagrams" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Leetcode" />
-      <envs />
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.BinaryTreePostorderTraversal">
     <configuration default="false" name="Power" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Power" />
       <option name="VM_PARAMETERS" />
@@ -974,6 +988,26 @@
     </configuration>
     <configuration default="false" name="BinaryTreePreorderTraversal" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="BinaryTreePreorderTraversal" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Leetcode" />
+      <envs />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <ConfigurationWrapper RunnerId="Debug" />
+      <method />
+    </configuration>
+    <configuration default="false" name="BinaryTreePostorderTraversal" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="BinaryTreePostorderTraversal" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -1081,19 +1115,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Anagrams" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Power" />
-      <item index="2" class="java.lang.String" itemvalue="Application.JumpGame" />
-      <item index="3" class="java.lang.String" itemvalue="Application.BinaryTreeInorderTraversal" />
-      <item index="4" class="java.lang.String" itemvalue="Application.BinaryTreePreorderTraversal" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Power" />
+      <item index="1" class="java.lang.String" itemvalue="Application.JumpGame" />
+      <item index="2" class="java.lang.String" itemvalue="Application.BinaryTreeInorderTraversal" />
+      <item index="3" class="java.lang.String" itemvalue="Application.BinaryTreePreorderTraversal" />
+      <item index="4" class="java.lang.String" itemvalue="Application.BinaryTreePostorderTraversal" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.BinaryTreePreorderTraversal" />
-        <item index="1" class="java.lang.String" itemvalue="Application.BinaryTreeInorderTraversal" />
-        <item index="2" class="java.lang.String" itemvalue="Application.JumpGame" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Power" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Anagrams" />
+        <item index="0" class="java.lang.String" itemvalue="Application.BinaryTreePostorderTraversal" />
+        <item index="1" class="java.lang.String" itemvalue="Application.BinaryTreePreorderTraversal" />
+        <item index="2" class="java.lang.String" itemvalue="Application.BinaryTreeInorderTraversal" />
+        <item index="3" class="java.lang.String" itemvalue="Application.JumpGame" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Power" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -1129,26 +1163,26 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="22" width="1420" height="788" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39371258" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.39253733" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.39371258" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.39371258" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31873113" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24599709" sideWeight="0.6074627" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24599709" sideWeight="0.6062874" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28484848" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31873113" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -1218,13 +1252,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/BinaryTreeInorderTraversal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="65" selection-start="1168" selection-end="1168" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Solution2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="23" column="36" selection-start="572" selection-end="572" vertical-scroll-proportion="0.0">
@@ -1321,18 +1348,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/BinaryTreeInorderTraversal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="65" selection-start="1168" selection-end="1168" vertical-scroll-proportion="0.0">
+        <state line="39" column="65" selection-start="1168" selection-end="1168" vertical-scroll-proportion="0.039577838">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/BinaryTreePreorderTraversal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="48" column="27" selection-start="1458" selection-end="1458" vertical-scroll-proportion="0.13192612">
+        <state line="105" column="16" selection-start="3377" selection-end="3377" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1108#1117#0" expanded="true" />
             <element signature="e#1162#1172#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BinaryTreePostorderTraversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="67" column="26" selection-start="2035" selection-end="2035" vertical-scroll-proportion="0.5225464">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1117#1126#0" expanded="true" />
+            <element signature="e#1168#1178#0" expanded="true" />
+            <element signature="e#1220#1230#0" expanded="true" />
           </folding>
         </state>
       </provider>
