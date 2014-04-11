@@ -80,4 +80,30 @@ public class BinaryTreePreorderTraversal {
 //        }
 //        return rs;
 //    }
+
+//    method 3: use two stacks
+//    public static ArrayList<Integer> postorderTraversal(TreeNode root) {
+//        if(root == null) {
+//            return new ArrayList<Integer>();
+//        }
+//        ArrayList<Integer> rs = new ArrayList<Integer>();
+//        Stack<TreeNode> s1 = new Stack<TreeNode>();
+//        Stack<TreeNode> s2 = new Stack<TreeNode>();
+//        s1.push(root);
+//        while(!s1.empty()) {
+//            TreeNode temp = s1.pop();
+//            s2.add(temp);
+//            if(temp.right != null) {
+//                s1.add(temp.right);
+//            }
+//            if(temp.left != null) {
+//                s1.add(temp.left);
+//            }
+//        }
+//        while(!s2.empty()) {
+//            //output s2's node in reverse order
+//            rs.add(0,s2.pop().val);
+//        }
+//        return rs;
+//    }
 }
