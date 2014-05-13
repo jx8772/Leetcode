@@ -6,7 +6,7 @@
     <ignored path=".idea/workspace.xml" />
     <file path="/RemoveDuplicatesfromSortedArray.java" changelist="288fc04a-2dfb-45fc-9493-2d023de66a1f" time="1392331943321" ignored="false" />
     <file path="/RemoveElement.java" changelist="288fc04a-2dfb-45fc-9493-2d023de66a1f" time="1392521130639" ignored="false" />
-    <file path="/fragment.java" changelist="288fc04a-2dfb-45fc-9493-2d023de66a1f" time="1397092587663" ignored="false" />
+    <file path="/fragment.java" changelist="288fc04a-2dfb-45fc-9493-2d023de66a1f" time="1397788334344" ignored="false" />
     <file path="/LengthofLastWord.java" changelist="288fc04a-2dfb-45fc-9493-2d023de66a1f" time="1392690683143" ignored="false" />
     <file path="/PlusOne.java" changelist="288fc04a-2dfb-45fc-9493-2d023de66a1f" time="1392745989406" ignored="false" />
     <file path="/RemoveDuplicatesfromSortedList.java" changelist="288fc04a-2dfb-45fc-9493-2d023de66a1f" time="1392864507610" ignored="false" />
@@ -61,6 +61,35 @@
     <file path="/BinaryTreeInorderTraversal.java" changelist="288fc04a-2dfb-45fc-9493-2d023de66a1f" time="1397053040430" ignored="false" />
     <file path="/BinaryTreePreorderTraversal.java" changelist="288fc04a-2dfb-45fc-9493-2d023de66a1f" time="1397176036750" ignored="false" />
     <file path="/BinaryTreePostorderTraversal.java" changelist="288fc04a-2dfb-45fc-9493-2d023de66a1f" time="1397176121244" ignored="false" />
+    <file path="/SpiralMatrix2.java" changelist="288fc04a-2dfb-45fc-9493-2d023de66a1f" time="1397270192725" ignored="false" />
+    <file path="/RotateList.java" changelist="288fc04a-2dfb-45fc-9493-2d023de66a1f" time="1397340944461" ignored="false" />
+    <file path="/UniquePath2.java" changelist="288fc04a-2dfb-45fc-9493-2d023de66a1f" time="1397526313300" ignored="false" />
+    <file path="/MinimumPathSum.java" changelist="288fc04a-2dfb-45fc-9493-2d023de66a1f" time="1397611632859" ignored="false" />
+    <file path="/SimplifyPath.java" changelist="288fc04a-2dfb-45fc-9493-2d023de66a1f" time="1397696569289" ignored="false" />
+    <file path="/ConvertSortedArraytoBinarySearchTree.java" changelist="288fc04a-2dfb-45fc-9493-2d023de66a1f" time="1397789264240" ignored="false" />
+    <file path="/SetMatrixZeroes.java" changelist="288fc04a-2dfb-45fc-9493-2d023de66a1f" time="1397874672068" ignored="false" />
+    <file path="/Search2DMatrix.java" changelist="288fc04a-2dfb-45fc-9493-2d023de66a1f" time="1397942817882" ignored="false" />
+    <file path="/LongestPalindromicSubstring.java" changelist="288fc04a-2dfb-45fc-9493-2d023de66a1f" time="1398132322976" ignored="false" />
+    <file path="/Combinations.java" changelist="288fc04a-2dfb-45fc-9493-2d023de66a1f" time="1398218574164" ignored="false" />
+    <file path="/Subsets.java" changelist="288fc04a-2dfb-45fc-9493-2d023de66a1f" time="1398302021826" ignored="false" />
+    <file path="/ReverseNodesInKGroup.java" changelist="288fc04a-2dfb-45fc-9493-2d023de66a1f" time="1398393278150" ignored="false" />
+    <file path="/ImplementstrStr.java" changelist="288fc04a-2dfb-45fc-9493-2d023de66a1f" time="1398560347745" ignored="false" />
+    <file path="/DivideTwoIntegers.java" changelist="288fc04a-2dfb-45fc-9493-2d023de66a1f" time="1398568762086" ignored="false" />
+    <file path="/PathSum2.java" changelist="288fc04a-2dfb-45fc-9493-2d023de66a1f" time="1398732884633" ignored="false" />
+    <file path="/LongestValidParentheses.java" changelist="288fc04a-2dfb-45fc-9493-2d023de66a1f" time="1398870993959" ignored="false" />
+    <file path="/SearchInRotatedSortedArray.java" changelist="288fc04a-2dfb-45fc-9493-2d023de66a1f" time="1398881594468" ignored="false" />
+    <file path="/SearchInRotatedSortedArray2.java" changelist="288fc04a-2dfb-45fc-9493-2d023de66a1f" time="1398887612581" ignored="false" />
+    <file path="/SearchForARange.java" changelist="288fc04a-2dfb-45fc-9493-2d023de66a1f" time="1398994128074" ignored="false" />
+    <file path="/SudokuSolver.java" changelist="288fc04a-2dfb-45fc-9493-2d023de66a1f" time="1399168608073" ignored="false" />
+    <file path="/CombinationSum2.java" changelist="288fc04a-2dfb-45fc-9493-2d023de66a1f" time="1399250876299" ignored="false" />
+    <file path="/PascalTriangle.java" changelist="288fc04a-2dfb-45fc-9493-2d023de66a1f" time="1399336519558" ignored="false" />
+    <file path="/PascalTriangle2.java" changelist="288fc04a-2dfb-45fc-9493-2d023de66a1f" time="1399342973758" ignored="false" />
+    <file path="/TrappingRainWater.java" changelist="288fc04a-2dfb-45fc-9493-2d023de66a1f" time="1399428848719" ignored="false" />
+    <file path="/MultiplyStrings.java" changelist="288fc04a-2dfb-45fc-9493-2d023de66a1f" time="1399517288997" ignored="false" />
+    <file path="/LRUCache.java" changelist="288fc04a-2dfb-45fc-9493-2d023de66a1f" time="1399591391377" ignored="false" />
+    <file path="/WordSearch.java" changelist="288fc04a-2dfb-45fc-9493-2d023de66a1f" time="1399689724703" ignored="false" />
+    <file path="/RemoveDuplicatesfromSortedList2.java" changelist="288fc04a-2dfb-45fc-9493-2d023de66a1f" time="1399913155685" ignored="false" />
+    <file path="/PartitionList.java" changelist="288fc04a-2dfb-45fc-9493-2d023de66a1f" time="1399948111804" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,7 +140,6 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint url="file://$PROJECT_DIR$/src/StringtoInteger.java" line="73" class="StringtoInteger" package="">
         <option name="ENABLED" value="true" />
@@ -758,7 +786,353 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/SpiralMatrix2.java" line="17" class="SpiralMatrix2" package="">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/RotateList.java" line="22" class="RotateList" package="">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/SetMatrixZeroes.java" line="63" class="SetMatrixZeroes" package="">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/Combinations.java" line="67" class="Combinations" package="">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/ReverseNodesInKGroup.java" line="20" class="ReverseNodesInKGroup" package="">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/PathSum2.java" line="30" class="PathSum2" package="">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/LongestValidParentheses.java" line="38" class="LongestValidParentheses" package="">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/SearchInRotatedSortedArray.java" line="20" class="SearchInRotatedSortedArray" package="">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/SearchInRotatedSortedArray.java" line="48" class="SearchInRotatedSortedArray" package="">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/SearchInRotatedSortedArray2.java" line="46" class="SearchInRotatedSortedArray2" package="">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/SearchForARange.java" line="42" class="SearchForARange" package="">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/SearchForARange.java" line="43" class="SearchForARange" package="">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/TrappingRainWater.java" line="36" class="TrappingRainWater" package="">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/LRUCache.java" line="11" class="LRUCache" package="">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/LRUCache.java" line="12" class="LRUCache" package="">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/LRUCache.java" line="13" class="LRUCache" package="">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/LRUCache.java" line="14" class="LRUCache" package="">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/LRUCache.java" line="15" class="LRUCache" package="">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/LRUCache.java" line="17" class="LRUCache" package="">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/LRUCache.java" line="16" class="LRUCache" package="">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/LRUCache.java" line="18" class="LRUCache" package="">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/RemoveDuplicatesfromSortedList2.java" line="18" class="RemoveDuplicatesfromSortedList2" package="">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/PartitionList.java" line="21" class="PartitionList" package="">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
     </line_breakpoints>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -768,29 +1142,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="BinaryTreePreorderTraversal.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/BinaryTreePreorderTraversal.java">
+      <file leaf-file-name="PartitionList.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/PartitionList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="10" selection-start="881" selection-end="881" vertical-scroll-proportion="0.33069307">
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1108#1117#0" expanded="true" />
-                <element signature="e#1162#1172#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BinaryTreePostorderTraversal.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BinaryTreePostorderTraversal.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="49" selection-start="295" selection-end="295" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1117#1126#0" expanded="true" />
-                <element signature="e#1168#1178#0" expanded="true" />
-                <element signature="e#1220#1230#0" expanded="true" />
-              </folding>
+            <state line="59" column="61" selection-start="1998" selection-end="1998" vertical-scroll-proportion="0.49086162">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -805,22 +1161,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/Solution2.java" />
-        <option value="$PROJECT_DIR$/src/Solution3.java" />
-        <option value="$PROJECT_DIR$/src/GenerateParentheses.java" />
-        <option value="$PROJECT_DIR$/src/MergeKLists.java" />
-        <option value="$PROJECT_DIR$/src/MinimumWindowSubstring.java" />
-        <option value="$PROJECT_DIR$/src/findSubstring.java" />
-        <option value="$PROJECT_DIR$/src/CombinationSum.java" />
-        <option value="$PROJECT_DIR$/src/MergeSortedArray.java" />
-        <option value="$PROJECT_DIR$/src/Permutations.java" />
-        <option value="$PROJECT_DIR$/src/Anagrams.java" />
-        <option value="$PROJECT_DIR$/src/Power.java" />
-        <option value="$PROJECT_DIR$/src/JumpGame.java" />
-        <option value="$PROJECT_DIR$/src/BinaryTreeInorderTraversal.java" />
-        <option value="$PROJECT_DIR$/src/BinaryTreePosterorderTraversal.java" />
-        <option value="$PROJECT_DIR$/src/BinaryTreePreorderTraversal.java" />
-        <option value="$PROJECT_DIR$/src/BinaryTreePostorderTraversal.java" />
+        <option value="$PROJECT_DIR$/src/DivideTwoIntegers.java" />
+        <option value="$PROJECT_DIR$/src/PathSum2.java" />
+        <option value="$PROJECT_DIR$/src/LongestValidParentheses.java" />
+        <option value="$PROJECT_DIR$/src/SearchInRotatedSortedArray.java" />
+        <option value="$PROJECT_DIR$/src/SearchInRotatedSortedArray2.java" />
+        <option value="$PROJECT_DIR$/src/SearchForARange.java" />
+        <option value="$PROJECT_DIR$/src/SudokuSolver.java" />
+        <option value="$PROJECT_DIR$/src/CombinationSum2.java" />
+        <option value="$PROJECT_DIR$/src/PascalTriangle.java" />
+        <option value="$PROJECT_DIR$/src/PascalTriangle2.java" />
+        <option value="$PROJECT_DIR$/src/TrappingRainWater.java" />
+        <option value="$PROJECT_DIR$/src/MultiplyStrings.java" />
+        <option value="$PROJECT_DIR$/src/LRUCache.java" />
+        <option value="$PROJECT_DIR$/src/WordSearch.java" />
+        <option value="$PROJECT_DIR$/src/RemoveDuplicatesfromSortedList2.java" />
+        <option value="$PROJECT_DIR$/src/PartitionList.java" />
       </list>
     </option>
   </component>
@@ -835,7 +1191,7 @@
     <option name="x" value="10" />
     <option name="y" value="22" />
     <option name="width" value="1420" />
-    <option name="height" value="788" />
+    <option name="height" value="775" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -914,16 +1270,16 @@
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="restartRequiresConfirmation" value="true" />
-    <property name="MemberChooser.showClasses" value="true" />
     <property name="FullScreen" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.searchVisible" value="true" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="dynamic.classpath" value="false" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
-  <component name="RunManager" selected="Application.BinaryTreePostorderTraversal">
-    <configuration default="false" name="Power" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Power" />
+  <component name="RunManager" selected="Application.PartitionList">
+    <configuration default="false" name="MultiplyStrings" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="MultiplyStrings" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -944,30 +1300,8 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="JumpGame" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="JumpGame" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Leetcode" />
-      <envs />
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="BinaryTreeInorderTraversal" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="BinaryTreeInorderTraversal" />
+    <configuration default="false" name="LRUCache" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="LRUCache" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -986,8 +1320,8 @@
       <ConfigurationWrapper RunnerId="Debug" />
       <method />
     </configuration>
-    <configuration default="false" name="BinaryTreePreorderTraversal" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="BinaryTreePreorderTraversal" />
+    <configuration default="false" name="WordSearch" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="WordSearch" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -1006,8 +1340,28 @@
       <ConfigurationWrapper RunnerId="Debug" />
       <method />
     </configuration>
-    <configuration default="false" name="BinaryTreePostorderTraversal" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="BinaryTreePostorderTraversal" />
+    <configuration default="false" name="RemoveDuplicatesfromSortedList2" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="RemoveDuplicatesfromSortedList2" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Leetcode" />
+      <envs />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <ConfigurationWrapper RunnerId="Debug" />
+      <method />
+    </configuration>
+    <configuration default="false" name="PartitionList" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="PartitionList" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -1040,19 +1394,6 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -1078,6 +1419,19 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -1115,19 +1469,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Power" />
-      <item index="1" class="java.lang.String" itemvalue="Application.JumpGame" />
-      <item index="2" class="java.lang.String" itemvalue="Application.BinaryTreeInorderTraversal" />
-      <item index="3" class="java.lang.String" itemvalue="Application.BinaryTreePreorderTraversal" />
-      <item index="4" class="java.lang.String" itemvalue="Application.BinaryTreePostorderTraversal" />
+      <item index="0" class="java.lang.String" itemvalue="Application.MultiplyStrings" />
+      <item index="1" class="java.lang.String" itemvalue="Application.LRUCache" />
+      <item index="2" class="java.lang.String" itemvalue="Application.WordSearch" />
+      <item index="3" class="java.lang.String" itemvalue="Application.RemoveDuplicatesfromSortedList2" />
+      <item index="4" class="java.lang.String" itemvalue="Application.PartitionList" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.BinaryTreePostorderTraversal" />
-        <item index="1" class="java.lang.String" itemvalue="Application.BinaryTreePreorderTraversal" />
-        <item index="2" class="java.lang.String" itemvalue="Application.BinaryTreeInorderTraversal" />
-        <item index="3" class="java.lang.String" itemvalue="Application.JumpGame" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Power" />
+        <item index="0" class="java.lang.String" itemvalue="Application.PartitionList" />
+        <item index="1" class="java.lang.String" itemvalue="Application.RemoveDuplicatesfromSortedList2" />
+        <item index="2" class="java.lang.String" itemvalue="Application.WordSearch" />
+        <item index="3" class="java.lang.String" itemvalue="Application.LRUCache" />
+        <item index="4" class="java.lang.String" itemvalue="Application.MultiplyStrings" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -1162,24 +1516,24 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="10" y="22" width="1420" height="788" extended-state="0" />
+    <frame x="10" y="22" width="1420" height="775" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2020958" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2020958" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.37251908" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.37251908" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31873113" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31659058" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24599709" sideWeight="0.7979042" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28484848" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20669578" sideWeight="0.6274809" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28396946" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1252,127 +1606,118 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Solution2.java">
+    <entry file="file://$PROJECT_DIR$/src/PathSum2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="36" selection-start="572" selection-end="572" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="8" selection-start="456" selection-end="456" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GenerateParentheses.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="17" selection-start="510" selection-end="510" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MergeTwoSortedLists.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="8" selection-start="243" selection-end="695" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MergeKLists.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="65" selection-start="1328" selection-end="1328" vertical-scroll-proportion="0.0">
+        <state line="25" column="25" selection-start="787" selection-end="787" vertical-scroll-proportion="0.0">
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1097#1106#0" expanded="true" />
+            <element signature="e#1077#1097#0" expanded="true" />
+            <element signature="e#1151#1160#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MinimumWindowSubstring.java">
+    <entry file="file://$PROJECT_DIR$/src/LongestValidParentheses.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="10" selection-start="165" selection-end="165" vertical-scroll-proportion="0.27704486">
+        <state line="28" column="68" selection-start="970" selection-end="970" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/findSubstring.java">
+    <entry file="file://$PROJECT_DIR$/src/SearchInRotatedSortedArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="69" column="20" selection-start="2364" selection-end="2364" vertical-scroll-proportion="0.0">
+        <state line="29" column="17" selection-start="840" selection-end="840" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/CombinationSum.java">
+    <entry file="file://$PROJECT_DIR$/src/SearchInRotatedSortedArray2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="26" selection-start="548" selection-end="548" vertical-scroll-proportion="0.0">
+        <state line="28" column="36" selection-start="800" selection-end="800" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MergeSortedArray.java">
+    <entry file="file://$PROJECT_DIR$/src/SearchForARange.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="49" selection-start="1285" selection-end="1285" vertical-scroll-proportion="0.0">
+        <state line="24" column="38" selection-start="708" selection-end="708" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Permutations.java">
+    <entry file="file://$PROJECT_DIR$/src/ValidSudoku.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="62" selection-start="498" selection-end="498" vertical-scroll-proportion="0.0">
+        <state line="23" column="69" selection-start="288" selection-end="932" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Anagrams.java">
+    <entry file="file://$PROJECT_DIR$/src/SudokuSolver.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="12" selection-start="1253" selection-end="1253" vertical-scroll-proportion="0.0">
+        <state line="64" column="18" selection-start="2011" selection-end="2011" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Power.java">
+    <entry file="file://$PROJECT_DIR$/src/CombinationSum2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="17" selection-start="346" selection-end="346" vertical-scroll-proportion="0.0">
+        <state line="32" column="25" selection-start="1216" selection-end="1216" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JumpGame.java">
+    <entry file="file://$PROJECT_DIR$/src/PascalTriangle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="46" selection-start="1156" selection-end="1156" vertical-scroll-proportion="0.0">
+        <state line="16" column="61" selection-start="481" selection-end="481" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/BinaryTreeInorderTraversal.java">
+    <entry file="file://$PROJECT_DIR$/src/PascalTriangle2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="65" selection-start="1168" selection-end="1168" vertical-scroll-proportion="0.039577838">
+        <state line="25" column="9" selection-start="755" selection-end="755" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/BinaryTreePostorderTraversal.java">
+    <entry file="file://$PROJECT_DIR$/src/TrappingRainWater.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="49" selection-start="295" selection-end="295" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1117#1126#0" expanded="true" />
-            <element signature="e#1168#1178#0" expanded="true" />
-            <element signature="e#1220#1230#0" expanded="true" />
-          </folding>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/BinaryTreePreorderTraversal.java">
+    <entry file="file://$PROJECT_DIR$/src/MultiplyStrings.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="10" selection-start="881" selection-end="881" vertical-scroll-proportion="0.33069307">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1108#1117#0" expanded="true" />
-            <element signature="e#1162#1172#0" expanded="true" />
-          </folding>
+        <state line="13" column="64" selection-start="344" selection-end="344" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LRUCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="29" selection-start="428" selection-end="428" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WordSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="56" column="79" selection-start="2023" selection-end="2023" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RemoveDuplicatesfromSortedList2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="11" selection-start="1064" selection-end="1064" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PartitionList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="59" column="61" selection-start="1998" selection-end="1998" vertical-scroll-proportion="0.49086162">
+          <folding />
         </state>
       </provider>
     </entry>
