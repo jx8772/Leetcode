@@ -6,7 +6,7 @@
     <ignored path=".idea/workspace.xml" />
     <file path="/RemoveDuplicatesfromSortedArray.java" changelist="288fc04a-2dfb-45fc-9493-2d023de66a1f" time="1392331943321" ignored="false" />
     <file path="/RemoveElement.java" changelist="288fc04a-2dfb-45fc-9493-2d023de66a1f" time="1392521130639" ignored="false" />
-    <file path="/fragment.java" changelist="288fc04a-2dfb-45fc-9493-2d023de66a1f" time="1397788334344" ignored="false" />
+    <file path="/fragment.java" changelist="288fc04a-2dfb-45fc-9493-2d023de66a1f" time="1400466677357" ignored="false" />
     <file path="/LengthofLastWord.java" changelist="288fc04a-2dfb-45fc-9493-2d023de66a1f" time="1392690683143" ignored="false" />
     <file path="/PlusOne.java" changelist="288fc04a-2dfb-45fc-9493-2d023de66a1f" time="1392745989406" ignored="false" />
     <file path="/RemoveDuplicatesfromSortedList.java" changelist="288fc04a-2dfb-45fc-9493-2d023de66a1f" time="1392864507610" ignored="false" />
@@ -95,6 +95,8 @@
     <file path="/UniqueBinarySearchTrees.java" changelist="288fc04a-2dfb-45fc-9493-2d023de66a1f" time="1400257899458" ignored="false" />
     <file path="/UniqueBinarySearchTree2.java" changelist="288fc04a-2dfb-45fc-9493-2d023de66a1f" time="1400276998555" ignored="false" />
     <file path="/BestTimeToBuyAndSellStock.java" changelist="288fc04a-2dfb-45fc-9493-2d023de66a1f" time="1400383267425" ignored="false" />
+    <file path="/BestTimeToBuyAndSellStock2.java" changelist="288fc04a-2dfb-45fc-9493-2d023de66a1f" time="1400464971383" ignored="false" />
+    <file path="/BestTimeToBuyAndSellStock3.java" changelist="288fc04a-2dfb-45fc-9493-2d023de66a1f" time="1400554295014" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,7 +111,6 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -146,6 +147,7 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint url="file://$PROJECT_DIR$/src/StringtoInteger.java" line="73" class="StringtoInteger" package="">
         <option name="ENABLED" value="true" />
@@ -1192,40 +1194,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="PartitionList.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/PartitionList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="59" column="61" selection-start="1998" selection-end="1998" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UniqueBinarySearchTrees.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/UniqueBinarySearchTrees.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="68" selection-start="326" selection-end="326" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UniqueBinarySearchTree2.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/UniqueBinarySearchTree2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="10" selection-start="590" selection-end="590" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="e#470#480#0" expanded="true" />
-                <element signature="e#720#730#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BestTimeToBuyAndSellStock.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="BestTimeToBuyAndSellStock.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/BestTimeToBuyAndSellStock.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="49" selection-start="436" selection-end="436" vertical-scroll-proportion="0.3197279">
+            <state line="29" column="53" selection-start="841" selection-end="841" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BestTimeToBuyAndSellStock3.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/BestTimeToBuyAndSellStock3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="57" column="42" selection-start="2353" selection-end="2353" vertical-scroll-proportion="0.5945946">
               <folding />
             </state>
           </provider>
@@ -1241,8 +1222,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/SearchForARange.java" />
-        <option value="$PROJECT_DIR$/src/SudokuSolver.java" />
         <option value="$PROJECT_DIR$/src/CombinationSum2.java" />
         <option value="$PROJECT_DIR$/src/PascalTriangle.java" />
         <option value="$PROJECT_DIR$/src/PascalTriangle2.java" />
@@ -1257,6 +1236,8 @@
         <option value="$PROJECT_DIR$/src/UniqueBinarySearchTrees.java" />
         <option value="$PROJECT_DIR$/src/UniqueBinarySearchTree2.java" />
         <option value="$PROJECT_DIR$/src/BestTimeToBuyAndSellStock.java" />
+        <option value="$PROJECT_DIR$/src/BestTimeToBuyAndSellStock2.java" />
+        <option value="$PROJECT_DIR$/src/BestTimeToBuyAndSellStock3.java" />
       </list>
     </option>
   </component>
@@ -1299,6 +1280,8 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -1333,8 +1316,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1357,47 +1338,12 @@
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
   </component>
-  <component name="RunManager" selected="Application.BestTimeToBuyAndSellStock">
-    <configuration default="false" name="ReverseLinkedList2" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="ReverseLinkedList2" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Leetcode" />
-      <envs />
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <ConfigurationWrapper RunnerId="Debug" />
-      <method />
-    </configuration>
-    <configuration default="false" name="RestoreIPAddresses" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="RestoreIPAddresses" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Leetcode" />
-      <envs />
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <ConfigurationWrapper RunnerId="Debug" />
-      <method />
-    </configuration>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.BestTimeToBuyAndSellStock3">
     <configuration default="false" name="UniqueBinarySearchTrees" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="UniqueBinarySearchTrees" />
       <option name="VM_PARAMETERS" />
@@ -1454,6 +1400,42 @@
       <envs />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="BestTimeToBuyAndSellStock2" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="BestTimeToBuyAndSellStock2" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Leetcode" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="BestTimeToBuyAndSellStock3" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="BestTimeToBuyAndSellStock3" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Leetcode" />
+      <envs />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <ConfigurationWrapper RunnerId="Debug" />
       <method />
     </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
@@ -1545,19 +1527,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.ReverseLinkedList2" />
-      <item index="1" class="java.lang.String" itemvalue="Application.RestoreIPAddresses" />
-      <item index="2" class="java.lang.String" itemvalue="Application.UniqueBinarySearchTrees" />
-      <item index="3" class="java.lang.String" itemvalue="Application.UniqueBinarySearchTree2" />
-      <item index="4" class="java.lang.String" itemvalue="Application.BestTimeToBuyAndSellStock" />
+      <item index="0" class="java.lang.String" itemvalue="Application.UniqueBinarySearchTrees" />
+      <item index="1" class="java.lang.String" itemvalue="Application.UniqueBinarySearchTree2" />
+      <item index="2" class="java.lang.String" itemvalue="Application.BestTimeToBuyAndSellStock" />
+      <item index="3" class="java.lang.String" itemvalue="Application.BestTimeToBuyAndSellStock2" />
+      <item index="4" class="java.lang.String" itemvalue="Application.BestTimeToBuyAndSellStock3" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.BestTimeToBuyAndSellStock" />
-        <item index="1" class="java.lang.String" itemvalue="Application.UniqueBinarySearchTree2" />
-        <item index="2" class="java.lang.String" itemvalue="Application.UniqueBinarySearchTrees" />
-        <item index="3" class="java.lang.String" itemvalue="Application.RestoreIPAddresses" />
-        <item index="4" class="java.lang.String" itemvalue="Application.ReverseLinkedList2" />
+        <item index="0" class="java.lang.String" itemvalue="Application.BestTimeToBuyAndSellStock3" />
+        <item index="1" class="java.lang.String" itemvalue="Application.BestTimeToBuyAndSellStock2" />
+        <item index="2" class="java.lang.String" itemvalue="Application.BestTimeToBuyAndSellStock" />
+        <item index="3" class="java.lang.String" itemvalue="Application.UniqueBinarySearchTree2" />
+        <item index="4" class="java.lang.String" itemvalue="Application.UniqueBinarySearchTrees" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -1599,8 +1581,8 @@
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.37251908" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28396946" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.37251908" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.37251908" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31659058" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -1608,8 +1590,8 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20669578" sideWeight="0.71603054" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28396946" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20669578" sideWeight="0.6274809" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28396946" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1682,27 +1664,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ValidSudoku.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="69" selection-start="288" selection-end="932" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SudokuSolver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="64" column="18" selection-start="2011" selection-end="2011" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CombinationSum2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="25" selection-start="1216" selection-end="1216" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/PascalTriangle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="16" column="61" selection-start="481" selection-end="481" vertical-scroll-proportion="0.0">
@@ -1788,16 +1749,34 @@
     <entry file="file://$PROJECT_DIR$/src/UniqueBinarySearchTree2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="22" column="10" selection-start="590" selection-end="590" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#470#480#0" expanded="true" />
-            <element signature="e#720#730#0" expanded="true" />
-          </folding>
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ClimbStairs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="13" selection-start="169" selection-end="169" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BestTimeToBuyAndSellStock2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="36" selection-start="629" selection-end="629" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/BestTimeToBuyAndSellStock.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="49" selection-start="436" selection-end="436" vertical-scroll-proportion="0.3197279">
+        <state line="29" column="53" selection-start="841" selection-end="841" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BestTimeToBuyAndSellStock3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="57" column="42" selection-start="2353" selection-end="2353" vertical-scroll-proportion="0.5945946">
           <folding />
         </state>
       </provider>
